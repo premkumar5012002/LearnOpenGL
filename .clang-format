@@ -1,0 +1,20 @@
+BasedOnStyle: LLVM
+IndentWidth: 4
+UseTab: Never
+TabWidth: 4
+
+BinPackParameters: false
+BinPackArguments: false
+ColumnLimit: 0
+AllowAllParametersOfDeclarationOnNextLine: false
+AllowAllArgumentsOnNextLine: false
+
+AlignAfterOpenBracket: BlockIndent
+
+IndentAccessModifiers: false
+AccessModifierOffset: -4
+IndentCaseLabels: true
+NamespaceIndentation: All
+
+DerivePointerAlignment: false
+PointerAlignment: Left
